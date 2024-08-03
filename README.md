@@ -21,3 +21,31 @@ Key Features
 Why Use This Tool?
 
 In today's digital age, password security is more important than ever. Weak passwords are a major vulnerability, making it easy for attackers to gain unauthorized access to your accounts. Our Password Strength Checker helps you create strong, secure passwords that protect your sensitive information.
+
+
+**Installation**
+
+Ensure you have Python 3.x installed on your system. Then, clone the repository and install the required dependencies:
+
+git clone https://github.com/your-username/password-strength-checker.git
+cd password-strength-checker
+pip install -r requirements.txt
+
+**Usage**
+
+Run the tool using the following command:
+
+python password_checker.py
+
+
+**Example**
+
+Enter a password to check its strength: P@ssw0rd123
+Password strength: Weak
+Suggestions to improve your password:
+ - Password should be at least 12 characters long.
+ - Increase password complexity for higher entropy.
+
+**Author**
+
+    **Vishal Patil (Intern at Codtech Pvt. Ltd.)**
