@@ -27,7 +27,7 @@ In today's digital age, password security is more important than ever. Weak pass
 
 Ensure you have Python 3.x installed on your system. Then, clone the repository and install the required dependencies:
 
-git clone https://github.com/your-username/password-strength-checker.git
+git clone https://github.com/VSP90/codtech_IT_solution_pvt_ltd.git
 cd password-strength-checker
 pip install -r requirements.txt
 
